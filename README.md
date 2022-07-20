@@ -1,1 +1,1 @@
-# gitinit-chatbot.py.io
+# A chatbot using Python consol.
